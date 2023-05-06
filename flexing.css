@@ -1,0 +1,63 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body{
+  margin: 0;
+  text-align: center;
+  background: linear-gradient(gold red);
+  background-repeat: no-repeat;
+ background-position: ;
+ background-size: ;
+}
+
+img {
+  width: 100px;
+}
+
+.hero {
+  background-image: url(bilder/bryggen.jpg);
+  background-size: 100%;
+  padding-bottom: 100px;
+  background-repeat: no-repeat;
+  background;
+}
+
+h1,
+h2 {
+  background: red;
+  margin: 20px 10px 10px 10px;
+  padding: 10px 10px;
+  border: solid 1px black;
+  border-radius: 25px;
+}
+
+.activities-text {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.activities-pic {
+  border: 1px solid;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.img1 {
+  border-radius: 40%;
+}
+
+.guide {
+  border: solid 1px;
+}
+
+.card {
+  height: 200px;
+  width: 400px;
+}
